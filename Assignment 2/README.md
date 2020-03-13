@@ -5,6 +5,7 @@ This assignment consisted of two parts:
 
 ## Learning Objective
 The first part familiarized students with **C types, stardard input and output streams, flow control structures,** and **recursion**.
+
 The second part introduced **multi-dimensional arrays** and **global variables**.
 
 ## How to Run
