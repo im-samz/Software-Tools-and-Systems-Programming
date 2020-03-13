@@ -3,7 +3,7 @@ This assignment consisted of two parts:
 * The first part was to create a program that could evalue arithmetic expressions from stdin.
 * The second part was to create a program that could represent an integer using a seven-segment display.
 
-## Learning Objective
+## Learning Objectives
 The first part familiarized students with **C types, stardard input and output streams, flow control structures,** and **recursion**.
 
 The second part introduced **multi-dimensional arrays** and **global variables**.
