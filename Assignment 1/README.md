@@ -1,5 +1,5 @@
 # Project Description
-This assignment consisted of two components:
+This assignment consisted of two parts:
 * The first part was to create a program that could convert between Kilometers and Miles, Meters and Feet, Centimeters and Inch, and Celcius and Fahrenheit.
 * The second part was to create an exponential number calculator.
 
